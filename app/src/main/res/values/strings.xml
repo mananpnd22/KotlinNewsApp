@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Kotlin News</string>
+    <string name="title_item_detail">Article Detail</string>
+
+    <string name="offline_message">No internet connection</string>
+
+    <string name="error_loading">Error loading the list.</string>
+    <string name="empty_response">Empty list response.</string>
+    <string name="retry">Retry</string>
+
+    <string name="free_text">Free</string>
+    <string name="placeholder_description">Description</string>
+    <string name="placeholder_title">Title</string>
+    <string name="item_icon_description">Reddit image</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="subreddit_subscribers_placeholder">1000 Subscribers</string>
+    <string name="subreddit_name_placeholder">author</string>
+    <string name="subreddit_public_description_label">Body Description</string>
+    <string name="large_text">**Title**</string>
+
+</resources>
